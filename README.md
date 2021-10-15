@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dastjead&langs_count=5)
-  
+
+<!--
 
 ## Open for collaboration
 Contact me on dastjead@gmail.com or on the medias below.
@@ -53,7 +54,8 @@ Contact me on dastjead@gmail.com or on the medias below.
 [<img src="https://api.iconify.design/logos:telegram.svg" width=48 height=48>][telegram]
 [<img src="https://api.iconify.design/logos:discord-icon.svg" width=48 height=48>][discord]
 
-<!-- [<img src="" width=48 height=48>][] -->
+-->
+
 
 <!-- 
 [stackoverflow]: https://stackoverflow.com/users/11811412/nicholas-obert
