@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 
 <!-- <img src="" alt="" width=48 height=48> -->
 
-<br>
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dastjead&langs_count=5)
 
 <!--
 
