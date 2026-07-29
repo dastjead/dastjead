@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   <img src="https://api.iconify.design/logos:flutter.svg" alt="Flutter" width=48 height=48>
   <img src="https://api.iconify.design/logos:git-icon.svg" alt="Git" width=48 height=48>
   <img src="https://api.iconify.design/logos:hadoop.svg" alt="Hadoop" width=48 height=48>
-  <img src="https://api.iconify.design/logos:docker-icon.svg" alt="Docker" width=48 height=48>
 </span>
 
 <!-- <img src="" alt="" width=48 height=48> -->
